@@ -31,8 +31,6 @@ Zhiang Chen
 
 19:34 test
 
-<<<<<<< HEAD
 19:42 test
-=======
+
 19:49 test
->>>>>>> 195b5d8 (test)
